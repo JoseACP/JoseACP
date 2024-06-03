@@ -1,6 +1,6 @@
 # Hi there I´m JoseACP👋
 
-##About me
+## About me
 - 🌱 I’m currently learning Django
 - 📱I’m a mobile developer
 <!--
