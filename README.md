@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, there I'm JoseACP 👋</h1>
 </div>
-<img src="https://drive.google.com/file/d/1PPulT-mXA_pwAKRjESN1C0_KP48stN_-/view">
+<img src="https://imgur.com/9OCmBB1">
 
 
 [![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/JoseACP)
