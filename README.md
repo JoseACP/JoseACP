@@ -2,7 +2,8 @@
 
 ## About me
 - 🌱 I’m currently learning Django
-- 📱I’m a mobile developer
+- 📱 I’m a mobile developer
+- 💻 Also I've been learnig about React Native and Flutter
 <!--
 **JoseACP/JoseACP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
