@@ -1,10 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, there I'm JoseACP 👋</h1>
 </div>
-<!-- <img src="https://imgur.com/9OCmBB1">
-
-
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/JoseACP) -->
 
 ## About me
 
